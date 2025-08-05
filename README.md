@@ -41,3 +41,5 @@ data/
 │       └── chexpert_negation_binary_mcq.csv
 ```
 For experimental convenience, we directly provide the LLM-processed captions in `xxx_logic_inversion.csv`. All CSV files and corresponding raw images or videos are available for download:
+[data](https://drive.google.com/file/d/1u8BqLc8LOGLSketxyx0KT3ug6lf1A3tK/view?usp=drive_link)
+## Supported Models
