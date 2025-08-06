@@ -1,0 +1,211 @@
+image_path,correct_answer,caption_0,caption_1,correct_answer_template
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Effusion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Atelectasis.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Effusion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Effusion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Effusion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Atelectasis.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Atelectasis.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Effusion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Atelectasis.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Atelectasis.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Atelectasis.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Enlarged Cardiomediastinum.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Effusion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Lung Lesion.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Edema.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumonia.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pneumothorax.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Pleural Other.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Consolidation.,This image shows Fracture.,positive

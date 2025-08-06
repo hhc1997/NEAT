@@ -1,0 +1,137 @@
+image_path,correct_answer,caption_0,caption_1,correct_answer_template
+/mnt/hhc_data/NegBench/chexpert/valid/patient64541/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64541/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64546/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64546/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64549/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64549/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64553/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64553/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64564/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64564/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64565/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64565/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64569/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64569/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64572/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64572/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64585/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64585/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64592/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64592/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64596/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64596/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64603/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64603/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64606/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64606/study1/view1_frontal.jpg,1,This image shows Lung Opacity.,This image does not show Lung Opacity.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64606/study1/view2_lateral.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64606/study1/view2_lateral.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64609/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64609/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64610/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64610/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64611/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64611/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64612/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64612/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64617/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64617/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64621/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64621/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64622/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64622/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64626/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64626/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64633/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64633/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64636/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64636/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64642/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64642/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64644/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64644/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64646/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64646/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64647/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64647/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64654/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64654/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64655/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64655/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64660/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64660/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64664/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64664/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64669/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64669/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64671/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64671/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64672/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64672/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64674/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64674/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64675/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64675/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view2_lateral.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view2_lateral.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64687/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64687/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64691/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64691/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64693/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64693/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64698/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64698/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64700/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64700/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64711/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64711/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64712/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64712/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64719/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64719/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64729/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64729/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64732/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64732/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64738/study1/view1_frontal.jpg,0,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64738/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative

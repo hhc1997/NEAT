@@ -1,0 +1,253 @@
+image_path,correct_answer,caption_0,caption_1,correct_answer_template
+/mnt/hhc_data/NegBench/chexpert/valid/patient64541/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64541/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64543/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64543/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64545/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64545/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64546/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64546/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64547/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64547/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64547/study1/view2_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64547/study1/view2_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64547/study1/view3_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64547/study1/view3_lateral.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64548/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64552/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64555/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64557/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64557/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64560/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64560/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64560/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64560/study1/view2_lateral.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64561/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64561/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64563/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64563/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64564/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64564/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64566/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64566/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64566/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64566/study1/view2_lateral.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64569/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64569/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64570/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64570/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64570/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64570/study1/view2_lateral.jpg,1,This image shows Enlarged Cardiomediastinum.,This image does not show Enlarged Cardiomediastinum.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64571/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64571/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64573/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64573/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64579/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64580/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64582/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64583/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64589/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64589/study1/view2_lateral.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64589/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64589/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64592/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64592/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64596/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64596/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64598/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64598/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64600/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64600/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64600/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64600/study1/view2_lateral.jpg,1,This image shows Enlarged Cardiomediastinum.,This image does not show Enlarged Cardiomediastinum.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64601/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64601/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64602/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64602/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64603/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64603/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64607/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64607/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64608/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64608/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64608/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64608/study1/view2_lateral.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64609/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64609/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64610/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64610/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64611/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64611/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64612/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64612/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64614/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64614/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64619/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64619/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64620/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64620/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64622/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64622/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64623/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64624/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64630/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64632/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64632/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64633/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64633/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64634/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64634/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64635/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64635/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64636/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64636/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64638/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64638/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64639/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view2_lateral.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64640/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64641/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64642/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64642/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64643/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64644/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64644/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64645/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64645/study1/view1_frontal.jpg,1,This image shows Enlarged Cardiomediastinum.,This image does not show Enlarged Cardiomediastinum.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64648/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64648/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64649/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64649/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64650/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64652/study1/view1_frontal.jpg,1,This image shows Enlarged Cardiomediastinum.,This image does not show Enlarged Cardiomediastinum.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64653/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64654/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64654/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64655/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64655/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64656/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64656/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64657/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64658/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64658/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64659/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64659/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64660/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64660/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64661/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64661/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64663/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64664/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64664/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64666/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64666/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64667/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64667/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64668/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64669/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64669/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64670/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64670/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64672/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64672/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64673/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64674/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64674/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64675/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64675/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view2_lateral.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64676/study1/view2_lateral.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64678/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64678/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64681/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64683/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64683/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64684/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64686/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64686/study1/view1_frontal.jpg,1,This image shows Pleural Effusion.,This image does not show Pleural Effusion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64688/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64689/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64690/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64690/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64691/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64691/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64692/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64693/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64693/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64694/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64694/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64697/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64697/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64698/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64698/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64699/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64699/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64701/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64701/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64702/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64703/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64704/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64711/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64711/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64712/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64712/study1/view1_frontal.jpg,1,This image shows Atelectasis.,This image does not show Atelectasis.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64714/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64714/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64715/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64717/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64718/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64718/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64722/study1/view1_frontal.jpg,1,This image shows Edema.,This image does not show Edema.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64723/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64723/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64725/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64725/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64729/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64729/study1/view1_frontal.jpg,1,This image shows Pneumothorax.,This image does not show Pneumothorax.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64732/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64732/study1/view1_frontal.jpg,1,This image shows Pneumonia.,This image does not show Pneumonia.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64733/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64733/study1/view1_frontal.jpg,1,This image shows Fracture.,This image does not show Fracture.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64734/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64734/study1/view1_frontal.jpg,1,This image shows Pleural Other.,This image does not show Pleural Other.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64735/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64735/study1/view1_frontal.jpg,1,This image shows Lung Lesion.,This image does not show Lung Lesion.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64738/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64738/study1/view1_frontal.jpg,1,This image shows Consolidation.,This image does not show Consolidation.,negative
+/mnt/hhc_data/NegBench/chexpert/valid/patient64740/study1/view1_frontal.jpg,0,This image shows Lung Opacity.,This image does not show Lung Opacity.,positive
+/mnt/hhc_data/NegBench/chexpert/valid/patient64740/study1/view1_frontal.jpg,1,This image shows Cardiomegaly.,This image does not show Cardiomegaly.,negative
