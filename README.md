@@ -50,7 +50,7 @@ Our method can be easily applied to almost all VLMs. We provide examples with CL
 Remember to replace the 'csv' paths. If you want to use other VLMs, replace the '--model' with your model weights.
 For example, you can adapt OpenAI-CLIP on COCO Negated Retrieval data as follows:
 ```
-python -m src.main_TTA.py
+python src.main_TTA.py
 --name
 NEAT_clip_coco
 --model
