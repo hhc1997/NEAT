@@ -41,5 +41,50 @@ raw_data/
 │       └── chexpert_negation_binary_mcq.csv
 ```
 For experimental convenience, we directly provide the LLM-processed captions in `xxx_logic_inversion.csv`. All CSV files and corresponding raw images or videos are available for download:
-[data](https://drive.google.com/file/d/1u8BqLc8LOGLSketxyx0KT3ug6lf1A3tK/view?usp=drive_link)
+[raw_data](https://drive.google.com/file/d/1u8BqLc8LOGLSketxyx0KT3ug6lf1A3tK/view?usp=drive_link)
+
 ## Supported Models
+Our method can be easily applied to almost all VLMs. We provide examples with CLIP-based models (e.g., OpenAI CLIP, ConCLIP, NegCLIP, PLIP) and BLIP-based models.
+
+## Training and Evaluation
+Remember to replace the 'csv' paths. If you want to use other VLMs, replace the '--model' with your model weights.
+For example, you can adapt OpenAI-CLIP on COCO Negated Retrieval data as follows:
+```
+python -m src.main_TTA.py
+--name
+NEAT_clip_coco
+--model
+ViT-B-32
+--pretrained
+openai
+--csv-caption-key
+caption
+--csv-img-key
+filepath
+--coco-mcq=/mnt/hhc_data/NegBench/images/COCO_val_mcq_llama3.1_rephrased.csv
+--coco-negated-retrieval=/mnt/hhc_data/NegBench/images/COCO_val_negated_retrieval_llama3.1_rephrased_affneg_true.csv
+--coco-negated-tta=/mnt/hhc_data/NegBench/images/COCO_val_negated_retrieval_llama3.1_rephrased_affneg_true_logic_inversion.csv
+--coco-retrieval=/mnt/hhc_data/NegBench/images/COCO_val_retrieval.csv
+--msrvtt-negated-retrieval=/mnt/hhc_data/NegBench/videos/msr_vtt_retrieval_rephrased_llama_logic_inversion.csv
+--msrvtt-mcq=/mnt/hhc_data/NegBench/videos/msr_vtt_mcq_rephrased_llama.csv
+--tta-init-lr
+2e-4
+--tta-steps
+3
+--tta-retrieval
+t2i
+--tta-temperature
+0.03
+--tta-temperature2
+0.07
+--tta-total-bs
+256
+--tta-wd
+0.001
+```
+
+## Checkpoints by NEAT
+You can find the NEATed checkpoints here (coming soon). And we also provide pre-trained checkpoints for convenience.
+
+## Acknowledgements
+Some portions of the code in this repository are adaptations from the following repositories: [negbench](https://github.com/m1k2zoo/negbench) and [TCR](https://github.com/XLearning-SCU/2025-ICLR-TCR).
