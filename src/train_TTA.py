@@ -64,6 +64,34 @@ def semantics_reversion_loss(scores, tau = 1):
     cost_s_max = cost_s.max(1)[0]
     return cost_s_max.mean()/tau
 
+def semantics_reversion_loss_topk(scores, tau=1, K=1):
+    """
+        K=1: Strictly equal to the original semantics_reversion_loss
+        
+        K=B-1: Compare all unpaired samples
+        
+        Args:
+        
+        scores: [B, B] Reverse the similarity matrix between text and visual samples
+        
+        tau: Temperature parameter
+        
+        K: Select the K least similar unpaired samples for comparison
+    """
+    B = scores.size(0)
+    diagonal = scores.diag().view(B, 1)
+    d1 = diagonal.expand_as(scores)
+    # cost[i,j] = max(0, s_ii - s_ij)
+    cost_s = (-scores + d1).clamp(min=0)
+    mask = torch.eye(B, device=scores.device).bool()
+    cost_s = cost_s.masked_fill(mask, 0)
+    K = min(K, B - 1)
+    topk_cost, _ = cost_s.topk(K, dim=1, largest=True)  # [B, K]
+    loss = topk_cost.mean(dim=1).mean() / tau
+
+    return loss
+
+
 
 def clip_loss(scores, logit_scale):
     logits_per_image = scores
@@ -151,4 +179,5 @@ def train_one_epoch(model, tokenizer, data_loader_text, data_loader_image, optim
 
 
     return score_matrix_i2t, score_matrix_t2i
+
 
