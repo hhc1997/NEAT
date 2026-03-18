@@ -105,11 +105,11 @@ def clip_loss(scores, logit_scale):
 def textual_triplet_loss(text_feat, pos_text_feat, inv_text_feat):
     """
     Args:
-        text_feat: 形状为(batch_size, D)的归一化文本特征， 含有否定约束，如 ''
-        pos_text_feat: 形状为(batch_size, D)的归一化正向文本特征
-        inv_text_feat: 形状为(batch_size, D)的归一化反向文本特征
+        text_feat: (batch_size, D)
+        pos_text_feat: (batch_size, D)
+        inv_text_feat: (batch_size, D)
     Returns:
-        loss: 标量张量 - 计算得到的语义差异损失
+        loss
     """
 
     pdist = nn.PairwiseDistance(p=2)
