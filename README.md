@@ -5,7 +5,7 @@ This repository contains the official PyTorch implementation of the paper: Negat
 
 > **Negation-Aware Test-Time Adaptation for Vision-Language Models**<br>
 > Haochen Han, Alex Jinpeng Wang, Fangming Liu, Jun Zhu.<br>
-> [https://www.arxiv.org/abs/2507.19064](https://www.arxiv.org/abs/2507.19064) 
+> [https://ieeexplore.ieee.org/abstract/document/11561105](https://ieeexplore.ieee.org/abstract/document/11561105) 
 >
 > **Abstract:** *In this paper, we study a practical but less-touched problem in Vision-Language Models (VLMs), \ie, negation understanding. Specifically, many real-world applications require models to explicitly identify what is false or non-existent, \eg, radiologists may search for images that exclude specific conditions. Despite the impressive transferability of VLMs through large-scale training, they suffer from a critical limitation that fails to handle negation. To address this challenge, existing methods attribute its root cause to the scarcity of negation training data and propose to fine-tune VLMs on massive data containing explicit negation. Undoubtedly, such data-centric solutions demand substantial data and computational resources, limiting their sustainable widespread adoption. To tackle negation in a low-carbon manner, we empirically observe that the key obstacle lies in the dual-concept shifts between the affirmation and negation distributions. Therefore, we propose a Negation-Aware Test-Time Adaptation (NEAT) method to efficiently adjust distribution-related parameters during inference. In brief, NEAT can reduce distribution shift in consistent semantics while eliminating false distributional consistency in unrelated semantics. Extensive experiments on the various negation understanding tasks verify the effectiveness of the proposed method. Remarkably, with less than 0.01\% of trainable parameters, NEAT achieves comparable or superior performance to state-of-the-art post-training approaches.*
 
@@ -84,7 +84,23 @@ t2i
 ```
 
 ## Checkpoints by NEAT
-You can find the NEATed checkpoints here (coming soon). And we also provide pre-trained checkpoints for convenience.
+You can find the NEATed checkpoints [here](https://drive.google.com/drive/folders/1LoRlMUAtKkhFPHt2j5YsqQu-iBdVlKRW). 
+
+## Cite
+If you find this repository useful, please consider citing our paper.
+
+```bibtex
+@ARTICLE{11561105,
+  author={Han, Haochen and Wang, Alex Jinpeng and Liu, Fangming and Zhu, Jun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Negation-Aware Test-Time Adaptation for Vision-Language Models}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TPAMI.2026.3703017}
+}
+```
 
 ## Acknowledgements
 Some portions of the code in this repository are adaptations from the following repositories: [negbench](https://github.com/m1k2zoo/negbench) and [TCR](https://github.com/XLearning-SCU/2025-ICLR-TCR).
